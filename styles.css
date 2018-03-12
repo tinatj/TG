@@ -1,0 +1,79 @@
+
+
+
+body {
+    background-image: url("lindseyV.jpeg");
+  
+ }
+/* ellipse(25,30,30,40); */
+.question { (200, 400, 30, 20);
+/* .question { (200, 400, 30, 20); */
+text-align: center;
+color: turquoise;
+font-weight: bold;
+
+}
+
+
+
+.choices {
+   
+text-align: center;
+text-justify: 25px;
+
+}
+
+
+
+
+.wins {
+    text-emphasis: 40px;
+
+
+}
+
+.timer { (20,40, 50, 60);
+    color: rgb(255, 0, 157);
+    font-weight: bold;
+
+    border: 5px solid black;
+    width: 500px;
+    height: 100px;
+    margin-left: auto;
+margin-right: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 66px;
+
+
+}
+
+
+
+
+
+.losses {
+
+
+}
+
+
+#answerArea {
+
+margin-left: auto;
+margin-right: auto;
+
+}
+
+
+#WandL {
+    color: red;
+    font-weight: bold;
+    border: 5px solid black;
+width: 500px;
+height: 200px;
+
+}
+
+
+
